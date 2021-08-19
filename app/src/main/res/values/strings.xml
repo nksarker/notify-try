@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="page_title">Notify</string>
+    <string name="more">More</string>
+    <string name="content_description_more">This is the navigation drawer option</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">This is search icon</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="title">Milton Kumar Kundu</string>
+    <string name="icon_todo">TODO</string>
+    <string name="post">Create Post</string>
+    <string name="content_description_media">image_post</string>
+    <string name="secondary_text">Electrical Machine II </string>
+    <string name="supporting_text">Dear,\nSome of you have commented and messaged me regarding a mathematical problem. The correct answer</string>
+    <string name="action_1">react</string>
+    <string name="action_2">comment</string>
+    <string name="reminder">reminder</string>
+    <string name="speakout">speakout</string>
+    <string name="raw_post">Raw Post</string>
+    <string name="dot"> . </string>
+    <string name="post_time">1 hour ago</string>
+    <string name="seen_by">seen by 45</string>
+    <string name="deadline">3 Jul</string>
+    <string name="time_text">02 : 15</string>
+    <string name="text">Text</string>
+    <string name="voice">Voice</string>
+    <string name="label">Course Title</string>
+    <string name="name_of_dept"><![CDATA[Dept. of Electrical & Computer Engineering]]></string>
+    <string name="name_of_university"><![CDATA[Rajshahi University of Engineering & Technology]]></string>
+    <string name="email">mk1234@gmail.com</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+    <string name="notification_text">New announcement from Milton Kumar Kundu</string>
+    <string name="notification_time_text">1 min ago</string>
+    <string name="notification_page_title">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_text">Notify Something...</string>
+    <string name="example">This is autofill text</string>
+    <string name="post_audience">Post Audience</string>
+    <string name="who_can_see_post">Who can see your notice?</string>
+    <string name="text_answer">Your notice will show up in the news feed of your target  audience. You can add as much audience as you want.</string>
+    <string name="audience_txt">Audience</string>
+
+<!--    DROPDOWNS   -->
+    <string name="designation">
+        <item>Lecturer</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+    </string>
+    <string name="department">
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>ETE</item>
+        <item>ME</item>
+        <item>MTE</item>
+        <item>GCE</item>
+        <item>IPE</item>
+        <item>MSE</item>
+        <item>CFPE</item>
+        <item>CE</item>
+        <item>BECM</item>
+        <item>URP</item>
+        <item>ARCH</item>
+    </string>
+</resources>
